@@ -1,5 +1,5 @@
 # fake_persona
-randomly created fake people
+No Motivation just usig fetch 
 
 
 # https://rajeshjaga.github.io/fake_persona/
