@@ -1,5 +1,5 @@
 # Fake_Person
-No Motivation just usig fetch 
+No Motivation just usimg fetch 
 
 
-# https://rajeshjaga.github.io/fake_persona/
+# https://rajeshjaga.github.io/Fake_Person/
